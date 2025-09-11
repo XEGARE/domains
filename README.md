@@ -68,6 +68,13 @@ cloudflare-ech.com
 kino.pub
 kpap.link
 kpapp.link
+kpdl.link
+api2.support-kp.com
+api.alador.space
+i0.wp.com
+digital-cdn.net
+cdn2site.com
+cdn2cdn.com
 ```
 
 ### RuTracker
