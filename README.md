@@ -75,6 +75,8 @@ i0.wp.com
 digital-cdn.net
 cdn2site.com
 cdn2cdn.com
+cdn3t.store
+cdn32.lol
 ```
 
 ### RuTracker
