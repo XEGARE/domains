@@ -97,6 +97,11 @@ video.twimg.com
 api-stream.twitter.com
 ```
 
+### DeepL
+```
+deepl.com
+```
+
 ## Использование
 Например, в качестве статических маршрутов на роутерах Keenetic (с KeeneticOS **5.0 Beta 0**)
 
