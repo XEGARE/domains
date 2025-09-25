@@ -1,7 +1,6 @@
 # Домены разных сервисов
 
-Вы можете воспользоваться [списком](https://github.com/XEGARE/domains/tree/main?tab=readme-ov-file#список-доменов) ниже или установить расширение для браузера [Domain Status Monitor](https://github.com/XEGARE/Domain-Status-Monitor)
-, которое поможет быстро искать нужные домены.
+Вы можете воспользоваться [списком](https://github.com/XEGARE/domains/tree/main?tab=readme-ov-file#список-доменов) ниже или установить расширение для браузера [Domain Status Monitor](https://github.com/XEGARE/Domain-Status-Monitor), которое поможет быстро искать нужные домены.
 
 ## Список доменов
 ### YouTube
