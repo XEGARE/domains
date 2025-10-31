@@ -105,6 +105,12 @@ api-stream.twitter.com
 deepl.com
 ```
 
+### Twitch
+```
+usher.ttvnw.net
+gql.twitch.tv
+```
+
 ## Использование
 Например, в качестве статических маршрутов на роутерах Keenetic (с KeeneticOS **5.0 Beta 0**)
 
