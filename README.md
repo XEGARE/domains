@@ -111,6 +111,14 @@ usher.ttvnw.net
 gql.twitch.tv
 ```
 
+### SoundCloud
+```
+soundcloud.com
+sndcdn.com
+onetrust.com
+cookielaw.org
+```
+
 ## Использование
 Например, в качестве статических маршрутов на роутерах Keenetic (с KeeneticOS **5.0 Beta 0**)
 
