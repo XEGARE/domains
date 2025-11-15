@@ -83,6 +83,8 @@ cdn32.lol
 cdn-service.space
 m.staticdn.site
 m.pushbr.com
+api.ios-kp.store
+api.srvkp.com
 ```
 
 ### RuTracker
