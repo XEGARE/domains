@@ -80,6 +80,9 @@ cdn2site.com
 cdn2cdn.com
 cdn3t.store
 cdn32.lol
+cdn-service.space
+m.staticdn.site
+m.pushbr.com
 ```
 
 ### RuTracker
