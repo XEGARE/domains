@@ -61,6 +61,12 @@ ab.chatgpt.com
 webrtc.chatgpt.com
 ```
 
+### Claude
+```
+claude.ai
+anthropic.com
+```
+
 ### Cloudflare
 ```
 cloudflare-ech.com
