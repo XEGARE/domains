@@ -25,30 +25,40 @@ ytimg.l.google.com
 
 ### Discord
 ```
-dis.gd
 discord-attachments-uploads-prd.storage.googleapis.com
-discord.app
+hammerandchisel.ssl.zendesk.com
+dis.gd
 discord.co
 discord.com
 discord.design
 discord.dev
+discord.gg
 discord.gift
 discord.gifts
-discord.gg
 discord.media
 discord.new
 discord.store
-discord.status
+discord.tools
 discord-activities.com
 discordactivities.com
 discordapp.com
 discordapp.net
-discordcdn.com
 discordmerch.com
 discordpartygames.com
 discordsays.com
-discordsez.com
-stable.dl2.discordapp.net
+discordstatus.com
+airhorn.solutions
+airhornbot.com
+bigbeans.solutions
+watchanimeattheoffice.com
+discordapp.io
+discordcdn.com
+5.200.14.128/25
+34.0.0.0/15
+34.2.0.0/15
+34.2.0.0/15
+66.22.192.0/18
+138.128.136.0/21
 ```
 
 ### ChatGPT
