@@ -187,9 +187,8 @@ gql.twitch.tv
 ### SoundCloud
 ```
 soundcloud.com
+soundcloud.cloud
 sndcdn.com
-onetrust.com
-cookielaw.org
 ```
 
 ## Использование
