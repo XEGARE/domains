@@ -5,8 +5,7 @@
 ## Список доменов
 ### YouTube
 ```
-yt3.ggpht.com
-yt4.ggpht.com
+ggpht.com
 yt3.googleusercontent.com
 googlevideo.com
 jnn-pa.googleapis.com
