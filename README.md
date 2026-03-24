@@ -8,7 +8,6 @@
 ggpht.com
 yt3.googleusercontent.com
 googlevideo.com
-jnn-pa.googleapis.com
 wide-youtube.l.google.com
 youtube-nocookie.com
 youtube-ui.l.google.com
@@ -17,9 +16,7 @@ youtubeembeddedplayer.googleapis.com
 youtubekids.com
 youtubei.googleapis.com
 youtu.be
-yt-video-upload.l.google.com
 ytimg.com
-ytimg.l.google.com
 ```
 
 ### Discord
