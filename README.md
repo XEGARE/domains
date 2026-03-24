@@ -191,6 +191,11 @@ soundcloud.cloud
 sndcdn.com
 ```
 
+### Google Play / Google Play Console
+```
+play.google.com
+```
+
 ## Использование
 Например, в качестве статических маршрутов на роутерах Keenetic (с KeeneticOS **5.0 Beta 0**)
 
