@@ -153,6 +153,8 @@ m.staticdn.site
 m.pushbr.com
 api.ios-kp.store
 api.srvkp.com
+kp-msx.onrender.com
+cdnservices.link
 ```
 
 ### RuTracker
