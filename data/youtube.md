@@ -1,4 +1,4 @@
-[← НАЗАД](README.md)
+[← НАЗАД](../README.md)
 
 ## YouTube
 ```
