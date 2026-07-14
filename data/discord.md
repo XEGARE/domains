@@ -1,6 +1,6 @@
 [← НАЗАД](../README.md)
 
-### Discord
+## Discord
 ```
 discord-attachments-uploads-prd.storage.googleapis.com
 hammerandchisel.ssl.zendesk.com
