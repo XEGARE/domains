@@ -2,6 +2,7 @@
 
 ## KinoPub
 ```
+kino.watch
 kino.pub
 kpap.link
 kpapp.link
