@@ -14,6 +14,7 @@
 | DeepL | [Список](data/deepl.md) |
 | Discord | [Список](data/discord.md) |
 | GitHub | [Список](data/github.md) |
+| Google | [Список](data/google.md) |
 | Google Play / Google Play Console | [Список](data/googleplay.md) |
 | KinoPub | [Список](data/kinopub.md) |
 | RuTracker | [Список](data/rutracker.md) |
