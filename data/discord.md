@@ -31,9 +31,6 @@ watchanimeattheoffice.com
 discordapp.io
 discordcdn.com
 5.200.14.128/25
-34.0.0.0/15
-34.2.0.0/15
-34.2.0.0/15
 66.22.192.0/18
 138.128.136.0/21
 ```
