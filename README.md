@@ -8,8 +8,7 @@
 
 | Сервис | Адреса |
 |---|---|
-| ChatGPT | [Список](data/chatgpt.md) |
-| Claude | [Список](data/claude.md) |
+| AI | [Список](data/ai.md) |
 | Cloudflare | [Список](data/cloudflare.md) |
 | DeepL | [Список](data/deepl.md) |
 | Discord | [Список](data/discord.md) |
