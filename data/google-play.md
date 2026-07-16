@@ -1,0 +1,14 @@
+[← НАЗАД](../README.md)
+
+## Google Play / Google Play Console
+```
+googleplay.com
+xn--ngstr-lra8j.com
+play-fe.googleapis.com
+play-games.googleusercontent.com
+play-lh.googleusercontent.com
+play.google.com
+play.googleapis.com
+redirector.c.play.google.com
+
+```
